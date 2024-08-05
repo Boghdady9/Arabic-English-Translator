@@ -1,0 +1,6 @@
+gradio
+transformers==4.42.3
+torch==2.2.1
+datasets==2.20.0
+tokenizers==0.19.1
+sentencepiece
