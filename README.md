@@ -3,7 +3,7 @@
  the translator is based on Helsinki NLP's MarianMT model. the data used to train the model is from [**ymoslem/UN-Arabic-English-Filtered**](https://huggingface.co/datasets/ymoslem/UN-Arabic-English-Filtered)
 
 ## Data
-[Data used for training the model](https://huggingface.co/datasets/BoghdadyJR/ar-en_cleaned)
+[Cleaned Data used for training the model](https://huggingface.co/datasets/BoghdadyJR/ar-en_cleaned)
 
 ## Preprocessing
 
