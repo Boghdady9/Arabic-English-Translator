@@ -1,6 +1,6 @@
 # Arabic-English-Translator
  in this project we will build a translator that can translate from Arabic to English and vice versa using the transformer model.
- the translator is based on Helsinki NLP's MarianMT model. the data used to train the model is from **ymoslem/UN-Arabic-English-Filtered**.
+ the translator is based on Helsinki NLP's MarianMT model. the data used to train the model is from [**ymoslem/UN-Arabic-English-Filtered**](https://huggingface.co/datasets/ymoslem/UN-Arabic-English-Filtered)
 
 ## Data
 [Data used for training the model](https://huggingface.co/datasets/BoghdadyJR/ar-en_cleaned)
